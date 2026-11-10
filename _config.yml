@@ -15,7 +15,7 @@ description: >-
 # 项目页（普通仓库）：https://username.github.io/仓库名
 url: "https://zsjzqwq.great_site.net"
 baseurl: ""                # 项目页部署时改为 "/仓库名"，例如 "/blogs"
-repository: "Cheater-chest/blogs"
+repository: "Cheater-chest/blog"
 
 # —— 语言与时区 ——
 lang: zh-CN
@@ -39,7 +39,7 @@ paginate: 5
 paginate_path: "/page:num/"
 
 giscus:
-  repo: "Cheater-chest/Cheater-chest.github.io"   # 形如 用户名/仓库名
+  repo: "Cheater-chest/blog"   # 形如 用户名/仓库名
   repo-id: "R_kgDOUoih2A"
   category: "Q&A"
   category-id: "DIC_kwDOUoih2M4DGgmw"
